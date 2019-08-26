@@ -1,0 +1,2 @@
+# PHP-E-Commerce-Project
+An E-Commerce site created using PHP, JavaScript, Bootstrap, HTML and CSS as part of my MSc Software Development Degree. The site allows students at Queen's University Belfast to register their details, upload items to sell and buy items from students. The site also includes a facility for administering the site without the need for programming or database administration skills.
